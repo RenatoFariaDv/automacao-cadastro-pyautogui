@@ -40,7 +40,7 @@ import pandas
 tabela = pandas.read_csv("produtos.csv")
 print(tabela)
 
-# PASSO 4 CADASTRAR 1 PRODUTO
+# PASSO 4 REPETIR PARA TODOS OS PRODUTOS
 
 for linha in tabela.index: 
 
@@ -88,6 +88,6 @@ for linha in tabela.index:
 
 
 
-# PASSO 5 REPETIR PARA TODOS OS PRODUTOS 
+ 
 
-# PYAUTOGUI >> FAZER AUTOMAÇÕES COM PYTHON
+
