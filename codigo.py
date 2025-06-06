@@ -41,6 +41,7 @@ tabela = pandas.read_csv("produtos.csv")
 print(tabela)
 
 # PASSO 4 REPETIR PARA TODOS OS PRODUTOS
+     
 
 for linha in tabela.index: 
 
