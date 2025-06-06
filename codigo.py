@@ -76,7 +76,7 @@ for linha in tabela.index:
     pyautogui.press("tab")
     pyautogui.press("enter")
     pyautogui.scroll(10000)
-    
+   
 
 
 
